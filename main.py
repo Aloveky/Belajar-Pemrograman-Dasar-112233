@@ -1,0 +1,4 @@
+i = "TRPL"
+
+print(i)
+
